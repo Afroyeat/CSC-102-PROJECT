@@ -7,8 +7,6 @@ This repository hosts the Python code for my CSC-102 project, which simulates an
 - [Description](#description)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
